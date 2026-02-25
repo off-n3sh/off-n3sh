@@ -1,8 +1,9 @@
 # off-n3sh
 # About
-- Student majoring in Security Forensics
+- Majoring in Security Forensics
 - C, Python developer
-- Backend engineer and Systems Adminstrator
-- Lang: English,Spanish (a little bit)
+- Systems Adminstrator and Python Backked Developer
+- Lang: English and Kiswahili
 ## Contact
 - Email: nehemiaangana@icloud.com
+- Phone:+254717160575
